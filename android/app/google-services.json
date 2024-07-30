@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385953540173",
+    "project_id": "login-71444",
+    "storage_bucket": "login-71444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385953540173:android:d8fe3768caa01a1e705404",
+        "android_client_info": {
+          "package_name": "ion.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsSx1QA2DEVlxvEIzfg-SP1o5h_v98dHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
